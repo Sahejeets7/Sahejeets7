@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahejeet singh
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in FrontEnd Software Engineering
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on React/Redux/React Native/Python
 
 <!---
