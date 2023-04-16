@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahejeet singh nanra
-- 👀 I’m interested in FrontEnd Software Engineering
+- 👀 FrontEnd Software Engineer
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on React/Redux/React Native/Python
 
