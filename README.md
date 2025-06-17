@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sahejeet singh nanra
-- 👀 FrontEnd Software Engineer
+- 👋 Hi, I’m @Sahejeet
+- 👀 Front-End Software Engineer
 - 🌱 I’m currently learning Rust and Next.js.
-- 💞️ I’m looking to collaborate on React/NextJS/React Native/Python/Flutter
+- 💞️ I’m looking to collaborate on React.js/Next.js/Python
 
 <!---
 Sahejeets7/Sahejeets7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
