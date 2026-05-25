@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahejeet
-- 👀 Front-End Software Engineer
+- 👀 Software Engineer Specialist
 - 🌱 I’m currently learning Zig and Rust.
 - 💞️ I’m looking to collaborate on Typescript/React.js/Next.js/Python
 
