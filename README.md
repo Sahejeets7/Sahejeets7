@@ -2,6 +2,7 @@
 - 👀 Software Engineer Specialist
 - 🌱 I’m currently learning Zig and Rust.
 - 💞️ I’m looking to collaborate on Typescript/React.js/Next.js/Python
+- Knowledge of COBOL
 
 <!---
 Sahejeets7/Sahejeets7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
