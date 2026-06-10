@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahejeet
 - 👀 Software Engineer Specialist
 - 🌱 I’m currently learning Zig and Rust.
-- 💞️ I’m looking to collaborate on Typescript/React.js/Next.js/Python
+- 💞️ I’m looking to collaborate on Typescript/Vue/Next.js/Python
 - Knowledge of COBOL
 
 <!---
